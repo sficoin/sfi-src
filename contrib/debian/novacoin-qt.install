@@ -1,0 +1,5 @@
+Bitglobalcoin-qt usr/bin
+share/pixmaps/Bitglobalcoin32.xpm usr/share/pixmaps
+share/pixmaps/Bitglobalcoin80.xpm usr/share/pixmaps
+debian/Bitglobalcoin-qt.desktop usr/share/applications
+debian/Bitglobalcoin-qt.protocol usr/share/kde4/services/

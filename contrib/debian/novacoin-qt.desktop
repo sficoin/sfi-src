@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitglobalcoin
+Comment=Bitglobalcoin P2P Cryptocurrency
+Comment[ru]=Bitglobalcoin, P2P криптовалюта
+Comment[fr]=Bitglobalcoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitglobalcoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Bitglobalcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/Bitglobalcoin80.xpm
+MimeType=x-scheme-handler/Bitglobalcoin;
+Categories=Office;

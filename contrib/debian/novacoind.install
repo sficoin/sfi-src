@@ -1,0 +1,2 @@
+debian/bin/Bitglobalcoind usr/bin
+src/Bitglobalcoind usr/lib/Bitglobalcoin
